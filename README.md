@@ -1,7 +1,7 @@
 # Responsive-Navbar Using HTML & CSS
 Created a responsive navbar using HTML and CSS Only.
 
-## <a href="https://durgeshrai04.github.io/Responsive-Navbar/" target="_blank">LIVE DEMO</a>
+## <a href="https://denver44.github.io/Responsive-Navbar/" target="_blank">LIVE DEMO</a>
 
 ## Description
 
